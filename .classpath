@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ShareSimpleChat_JavaConsole-b9a71b120ed0c1272cdf72cfa3121c2a8cba335c"/>
+	<classpathentry kind="output" path="ShareSimpleChat_JavaConsole-b9a71b120ed0c1272cdf72cfa3121c2a8cba335c"/>
+</classpath>
